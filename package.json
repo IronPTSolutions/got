@@ -1,16 +1,13 @@
 {
   "name": "got",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple GOT episodes mock API",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/IronPTSolutions/got.git"
   },
-  "author": "",
+  "author": "IronPTSolutions team",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/IronPTSolutions/got/issues"
